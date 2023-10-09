@@ -19,3 +19,6 @@
 [submodule "integration-service"]
 	path = integration-service
 	url = https://github.com/biendong/shop-integration-service.git
+[submodule "config-service"]
+	path = config-service
+	url = https://github.com/biendong/shop-config-service.git
